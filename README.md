@@ -7,17 +7,17 @@ and becoming a programmer is going to allow me to explore and use my creativity 
 
 ## ♨️ Skills & Tools
 
-- **Languages:** JavaScript, HTML, CSS.
-- **Frameworks/Libraries:** Soon™️
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Next, Tailwind
 - **Tools:** Git, VS Code, Figma
 
 ## 🎖️ Projects
 
 ### 📂 Featured Projects
 
-- [Blog Project - Project Exam 1](https://arkuradev.github.io/project-exam-1-stein-a/)
-- [DSCM - Semester Project 1](https://arkuradev.github.io/Semester-Project-1/)
-- [HTML/CSS - GameHub](https://arkuradev.github.io/GameHub---HTML-CSS-CA/)
+- [Memespot - JavaScript 2](https://memespot-js2.vercel.app/)
+- [Online Shop - JavaScript Frameworks](https://jsfw-2025-v1-stein-jsframeworks.vercel.app/)
+- [CrestAuction - Semester Project 2](https://crestauction.netlify.app/)
 
 ## Stats & Badges
 
@@ -27,7 +27,7 @@ and becoming a programmer is going to allow me to explore and use my creativity 
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/stein-arild-gansmoe-924879106/)
-- [Portfolio](https://arkuradev.github.io/portfolio1/)
+- [Portfolio](https://portfolio-2-stein-arild.vercel.app/)
 - Email: steina89@hotmail.com
 
 <!--
