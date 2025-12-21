@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Stein Arild.
 
-I am currently studying front development at Noroff Vocational School - Online full time study.
-Trying to balance my study time with work and family life.
-I have always been interested in technology and how quickly it changes and improves for the better, so I know web development
-and becoming a programmer is going to allow me to explore and use my creativity to solve problems and create new things that might make life easier for some.
+I have studied Front End Development at Noroff and I am looking for new oppertunities for me to continue learning and develop my skills as a software developer. 
+
+While not working I like to spend my time with my family and play some games in the evenings with friends.
 
 ## ♨️ Skills & Tools
 
