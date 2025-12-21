@@ -1,34 +1,64 @@
-## Hi there 👋, I'm Stein Arild.
+## Hi there 👋, I'm Stein Arild
 
-I have studied Front End Development at Noroff and I am looking for new oppertunities for me to continue learning and develop my skills as a software developer. 
+I’m a **Front-End Developer** based in Norway, recently graduated from **Noroff School of Technology and Digital Media**.
 
-While not working I like to spend my time with my family and play some games in the evenings with friends.
+I enjoy building clean, user-focused web applications and refining existing projects through better structure, usability, and presentation. I have experience working with both **vanilla JavaScript** and modern frameworks, and I’m comfortable taking a project from initial setup to deployment.
+
+Outside of coding, I enjoy spending time with my family and relaxing with games in the evenings.
+
+---
 
 ## ♨️ Skills & Tools
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next, Tailwind
-- **Tools:** Git, VS Code, Figma
+**Languages**
+- HTML, CSS, JavaScript, TypeScript
 
-## 🎖️ Projects
+**Frameworks & Libraries**
+- React
+- Next.js
+- Tailwind CSS
 
-### 📂 Featured Projects
+**Concepts**
+- Component-based architecture
+- State management
+- API integration
+- UX-focused development
+- Responsive and accessible design
 
-- [Memespot - JavaScript 2](https://memespot-js2.vercel.app/)
-- [Online Shop - JavaScript Frameworks](https://jsfw-2025-v1-stein-jsframeworks.vercel.app/)
-- [CrestAuction - Semester Project 2](https://crestauction.netlify.app/)
+**Tools**
+- Git & GitHub
+- VS Code
+- Figma
 
-## Stats & Badges
+---
 
-![Stein's Github Stats](https://github-readme-stats.vercel.app/api?username=Arkuradev&show_icons=true)
+## 🎖️ Featured Projects
+
+- **MemeSpot** — Meme feed with debounced search, skeleton loaders, and improved authentication UX  
+  🔗 https://memespot-js2.vercel.app/
+
+- **Online Shop** — Product grid, product pages, and shopping flow built with modern JavaScript frameworks  
+  🔗 https://jsfw-2025-v1-stein-jsframeworks.vercel.app/
+
+- **CrestAuction** — Auction platform with listings, bidding, profiles, and UX polish  
+  🔗 https://crestauction.netlify.app/
+
+➡️ Full portfolio: https://portfolio-2-stein-arild.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+![Stein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkuradev&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkuradev&layout=compact)
 
-## 📫 Contact Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/stein-arild-gansmoe-924879106/)
-- [Portfolio](https://portfolio-2-stein-arild.vercel.app/)
-- Email: steina89@hotmail.com
+## 📫 Contact
 
+- **LinkedIn:** https://www.linkedin.com/in/stein-arild-gansmoe-924879106/
+- **Portfolio:** https://portfolio-2-stein-arild.vercel.app/
+- **Email:** steina89@hotmail.com
 <!--
 **Arkuradev/Arkuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
