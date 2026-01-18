@@ -40,13 +40,13 @@ I am currently working on refactoring an internal tool I made for my current emp
 ## 🎖️ Featured Projects
 
 - 🔗 **[Holidaze Retreats](https://holidaze-retreats.vercel.app/)** — Holidaze Retreats is a six-week final project completed during the last semester at Noroff, developed to demonstrate the ability to design and build a complete, user-facing web application.
-  🔗 [Holidaze Retreats](https://holidaze-retreats.vercel.app/)
 
-- **Online Shop** — Product grid, product pages, and shopping flow built with modern JavaScript frameworks  
-  🔗 https://jsfw-2025-v1-stein-jsframeworks.vercel.app/
 
-- **CrestAuction** — Auction platform with listings, bidding, profiles, and UX polish  
-  🔗 https://crestauction.netlify.app/
+- 🔗 **[CrestAuction](https://crestauction.netlify.app/)** — CrestAuction is a semester project completed at Noroff and represents my final major project before being introduced to JavaScript frameworks. The project was built using vanilla JavaScript and Tailwind CSS, with a focus on clean structure, usability, and real-world application logic.  
+
+
+- 🔗 **[GamerBlog](https://steingansmoe.github.io/project-exam-1-stein-a/)** — Project Exam 1 is a six-week exam project completed at Noroff and was my first major assessment after being introduced to JavaScript.
+
 
 <!-- ➡️ Full portfolio: Work in progress... -->
 
