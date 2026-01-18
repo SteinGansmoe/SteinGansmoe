@@ -39,8 +39,8 @@ I am currently working on refactoring an internal tool I made for my current emp
 
 ## 🎖️ Featured Projects
 
-- **MemeSpot** — Meme feed with debounced search, skeleton loaders, and improved authentication UX  
-  🔗 https://memespot-js2.vercel.app/
+- **Holidaze Retreats** — Holidaze Retreats is a six-week final project completed during the last semester at Noroff, developed to demonstrate the ability to design and build a complete, user-facing web application.
+  🔗 [Holidaze Retreats](https://holidaze-retreats.vercel.app/)
 
 - **Online Shop** — Product grid, product pages, and shopping flow built with modern JavaScript frameworks  
   🔗 https://jsfw-2025-v1-stein-jsframeworks.vercel.app/
@@ -48,7 +48,7 @@ I am currently working on refactoring an internal tool I made for my current emp
 - **CrestAuction** — Auction platform with listings, bidding, profiles, and UX polish  
   🔗 https://crestauction.netlify.app/
 
-➡️ Full portfolio: https://portfolio-2-stein-arild.vercel.app/
+➡️ Full portfolio: Work in progress... 
 
 ---
 
