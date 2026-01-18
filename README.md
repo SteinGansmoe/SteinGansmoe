@@ -32,7 +32,10 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 
 ---
 
-## 🔭 I'm currently working on refactoring an internal tool I made during my studies for my current employer. 
+## 🔭 I'm currently working on...
+
+I am currently working on refactoring an internal tool I made for my current employer Packline during my studies at Noroff. 
+
 
 ## 🎖️ Featured Projects
 
