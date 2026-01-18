@@ -30,11 +30,12 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 - VS Code
 - Figma
 
----
 
 ## 🔭 I'm currently working on...
 
 I am currently working on refactoring an internal tool I made for my current employer Packline during my studies at Noroff. 
+This was initally made to solve a big problem causing production issues, I quickly made something in vanilla javascript so we could continue production of some of our products. 
+Right now I am refactoring/remaking this app for longevity and improve the overall design and usability of the app. 
 
 
 ## 🎖️ Featured Projects
