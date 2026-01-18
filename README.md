@@ -32,6 +32,8 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 
 ---
 
+## 🔭 I'm currently working on refactoring an internal tool I made during my studies for my current employer. 
+
 ## 🎖️ Featured Projects
 
 - **MemeSpot** — Meme feed with debounced search, skeleton loaders, and improved authentication UX  
@@ -49,8 +51,8 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 
 ## 📊 GitHub Stats
 
-![Stein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkuradev&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkuradev&layout=compact)
+![Stein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteinGansmoe&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteinGansmoe&layout=compact)
 
 ---
 
