@@ -34,8 +34,8 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 ## 🔭 I'm currently working on...
 
 I am currently working on refactoring an internal tool I made for my current employer Packline during my studies at Noroff. 
-This was initally made to solve a big problem causing production issues, I quickly made something in vanilla javascript so we could continue production of some of our products. 
-Right now I am refactoring/remaking this app for longevity and improve the overall design and usability of the app. 
+This project was made to solve stalling production issues as we were on the werge of losing the data for producing some of our box models. 
+This tool helped solve and improve QoL for our sales representatives also as they would have access to this tool on any device wherever they are. 
 
 
 ## 🎖️ Featured Projects
