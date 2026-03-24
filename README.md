@@ -63,7 +63,7 @@ This tool helped solve and improve QoL for our sales representatives also as the
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/stein-arild-gansmoe-924879106/
-- **Portfolio:** https://portfolio-2-stein-arild.vercel.app/
+- **Portfolio:** https://steingansmoe.no
 - **Email:** steina89@hotmail.com
 <!--
 **Arkuradev/Arkuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
