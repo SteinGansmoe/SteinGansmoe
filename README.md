@@ -55,13 +55,6 @@ This project is very personal to me, but also a great opportunity to explore how
 
 ---
 
-## 📊 GitHub Stats
-
-![Stein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteinGansmoe&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteinGansmoe&layout=compact)
-
----
-
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/stein-arild-gansmoe-924879106/
