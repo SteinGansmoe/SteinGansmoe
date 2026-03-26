@@ -33,9 +33,11 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 
 ## 🔭 I'm currently working on...
 
-I am currently working on refactoring an internal tool I made for my current employer Packline during my studies at Noroff. 
-This project was made to solve stalling production issues as we were on the werge of losing the data for producing some of our box models. 
-This tool helped solve and improve QoL for our sales representatives also as they would have access to this tool on any device wherever they are. 
+I'm currently building a small interactive game for my daughter (5) who has recently started treatment for amblyopia.
+
+As part of her treatment, she needs to wear an eye patch several hours a day to strengthen her weaker eye. To make this transition easier and hopefully something she can actually enjoy — I'm creating simple, playful visual exercises with moving shapes, animals, and characters that encourage focus and engagement.
+
+This project is very personal to me, but also a great opportunity to explore how technology can be used in a meaningful way, turning something challenging into something fun.
 
 
 ## 🎖️ Featured Projects
