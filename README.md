@@ -54,7 +54,7 @@ This project is very personal to me, but also a great opportunity to explore how
 
 ---
 
-🚀 What I'm aiming for
+## 🚀 What I'm aiming for
 
 I'm currently working towards becoming a full-stack developer, expanding my skills in backend technologies and building more complete, scalable applications.
 
