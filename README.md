@@ -42,6 +42,8 @@ This project is very personal to me, but also a great opportunity to explore how
 
 ## 🎖️ Featured Projects
 
+- 🔗 **[Portfolio](https://steingansmoe.no)** - Personal portfolio with a custom-built CMS using Supabase — allowing real-time project management directly from the website. 
+
 - 🔗 **[Holidaze Retreats](https://holidaze-retreats.vercel.app/)** — Holidaze Retreats is a six-week final project completed during the last semester at Noroff, developed to demonstrate the ability to design and build a complete, user-facing web application.
 
 
