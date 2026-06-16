@@ -33,11 +33,9 @@ Outside of coding, I enjoy spending time with my family and relaxing with games 
 
 ## 🔭 I'm currently working on...
 
-I'm currently building a small interactive game for my daughter (5) who has recently started treatment for amblyopia.
-
-As part of her treatment, she needs to wear an eye patch several hours a day to strengthen her weaker eye. To make this transition easier and hopefully something she can actually enjoy — I'm creating simple, playful visual exercises with moving shapes, animals, and characters that encourage focus and engagement.
-
-This project is very personal to me, but also a great opportunity to explore how technology can be used in a meaningful way, turning something challenging into something fun.
+I'm currently building a learning platform for League of Legends. This web app focuses on providing the user short and consise information regarding the matchup the user is about to go into in game, also
+there is a counter pick tool being implemented where the user will recieve more information on how to play the matchup rather then just recieving champion game statistics. 
+Go to **[LaneStomp](https://lanestomp.com)** to check it out. 
 
 
 ## 🎖️ Featured Projects
