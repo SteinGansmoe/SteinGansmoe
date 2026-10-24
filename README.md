@@ -1,79 +1,78 @@
-## Hi there 👋, I'm Stein Arild
+# Hi there! 👋 I'm Stein Arild
 
-I’m a **Front-End Developer** based in Norway, recently graduated from **Noroff School of Technology and Digital Media**.
+I'm a **Frontend Developer based in Norway**, and a recent graduate of **Noroff School of Technology and Digital Media**.
 
-I enjoy building clean, user-focused web applications and refining existing projects through better structure, usability, and presentation. I have experience working with both **vanilla JavaScript** and modern frameworks, and I’m comfortable taking a project from initial setup to deployment.
+I enjoy building practical, user-focused applications and understanding how different parts of a system work together. I especially like solving real problems, improving existing solutions and taking projects from an initial idea to deployment.
 
-Outside of coding, I enjoy spending time with my family and relaxing with games in the evenings.
+My main focus is **JavaScript, TypeScript and React**, and I'm gradually expanding my knowledge of backend development and system architecture.
 
----
+I'm currently looking for my **first professional opportunity as a developer**.
 
-## ♨️ Skills & Tools
+Outside of coding, I enjoy spending time with my family and playing games. 🎮
+
+## 🛠️ Skills & Technologies
 
 **Languages**
 - HTML, CSS, JavaScript, TypeScript
 
-**Frameworks & Libraries**
-- React
-- Next.js
-- Tailwind CSS
+**Frontend**
+- React, Next.js, Tailwind CSS
+- Responsive design, accessibility, component-based architecture
 
-**Concepts**
-- Component-based architecture
-- State management
-- API integration
-- UX-focused development
-- Responsive and accessible design
+**Backend & Data**
+- Supabase, PostgreSQL
+- REST APIs, authentication, data integration
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Figma
+**Tools & Workflow**
+- Git, GitHub, VS Code, Figma, Vercel
+- AI-assisted development, code review and testing
 
+## 🚀 Featured Projects
 
-## 🔭 I'm currently working on...
+### 🎮 [LaneStomp](https://www.lanestomp.com)
 
-I'm currently building a learning platform for League of Legends. This web app focuses on providing the user short and consise information regarding the matchup the user is about to go into in game, also
-there is a counter pick tool being implemented where the user will recieve more information on how to play the matchup rather then just recieving champion game statistics. 
-Go to **[LaneStomp](https://lanestomp.com)** to check it out. 
+A League of Legends platform focused on helping players understand champion matchups through practical guides and counter-pick insights.
 
+Built with **Next.js, TypeScript, Tailwind CSS and Supabase**, featuring AI-assisted content generation, administrative review workflows and integrations with Riot's game data services.
 
-## 🎖️ Featured Projects
+**[Live Site](https://www.lanestomp.com) · [GitHub Repository](https://github.com/SteinGansmoe/lanestomp)**
 
-- 🔗 **[Portfolio](https://steingansmoe.no)** - Personal portfolio with a custom-built CMS using Supabase — allowing real-time project management directly from the website. 
+### 🏡 [Holidaze Retreats](https://holidaze-retreats.vercel.app/)
 
-- 🔗 **[Holidaze Retreats](https://holidaze-retreats.vercel.app/)** — Holidaze Retreats is a six-week final project completed during the last semester at Noroff, developed to demonstrate the ability to design and build a complete, user-facing web application.
+A responsive venue booking application developed for my final project exam at Noroff, receiving **99/100 points**.
 
+Built with **React, TypeScript and Tailwind CSS**, featuring authentication, venue management, reservations and integration with the Noroff API.
 
-- 🔗 **[CrestAuction](https://crestauction.netlify.app/)** — CrestAuction is a semester project completed at Noroff and represents my final major project before being introduced to JavaScript frameworks. The project was built using vanilla JavaScript and Tailwind CSS, with a focus on clean structure, usability, and real-world application logic.  
+**[Live Site](https://holidaze-retreats.vercel.app/) · [GitHub Repository](https://github.com/SteinGansmoe/holidaze-retreats)**
 
+### 🔧 [Packline Malbok](https://packlinemalbok.netlify.app/)
 
-- 🔗 **[GamerBlog](https://steingansmoe.github.io/project-exam-1-stein-a/)** — Project Exam 1 is a six-week exam project completed at Noroff and was my first major assessment after being introduced to JavaScript.
+An internal workplace tool designed to help employees access vehicle fitting information and coordinate customization tasks.
 
+Built using **JavaScript, Tailwind CSS and Supabase**, with a shared customization queue to improve visibility into ongoing and upcoming work.
 
+**[Live Site](https://packlinemalbok.netlify.app/) · [GitHub Repository](https://github.com/SteinGansmoe/packlineMalbok)**
 
-## 🚀 What I'm aiming for
+### 💻 [Personal Portfolio](https://steingansmoe.no)
 
-I'm currently working towards becoming a full-stack developer, expanding my skills in backend technologies and building more complete, scalable applications.
+My personal developer portfolio, built with **React, TypeScript, Vite and Tailwind CSS**.
 
+Features responsive layouts, project case studies and reusable UI components.
 
+**[Live Site](https://steingansmoe.no) · [GitHub Repository](https://github.com/SteinGansmoe/portfolio)**
 
-## 📫 Contact
+## 🌱 Currently Learning & Exploring
 
-- **LinkedIn:** https://www.linkedin.com/in/stein-arild-gansmoe-924879106/
-- **Portfolio:** https://steingansmoe.no
-- **Email:** steina89@hotmail.com
-<!--
-**Arkuradev/Arkuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm continuing to strengthen my JavaScript and TypeScript fundamentals while expanding into full-stack development.
 
-Here are some ideas to get you started:
+I'm particularly interested in application architecture, API integrations, databases and building maintainable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+My long-term goal is to become a developer who can take ownership of a solution throughout its lifecycle — from planning and implementation to deployment and continuous improvement.
+
+## 📫 Let's Connect
+
+I'm open to junior frontend and full-stack development opportunities, primarily in the Drammen/Oslo area or remotely.
+
+- 🌐 **Portfolio:** [steingansmoe.no](https://steingansmoe.no)
+- 💼 **LinkedIn:** [Stein Arild Gansmoe](https://www.linkedin.com/in/stein-arild-gansmoe-924879106/)
+- ✉️ **Email:** [steina89@hotmail.com](mailto:steina89@hotmail.com)
